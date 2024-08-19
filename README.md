@@ -8,3 +8,8 @@ A proposta deles foi o desenvolvimento de um aplicativo que pudesse classificar 
 toda a etapa de pré-processamento requerida para que o modelo pudesse ser treinado, treino, validação e teste. 
 
 ## **Desenvolvimento do projeto**
+Este repositório lista os seguintes arquivos:
+`Audios.ipynb`
+`Modelos.ipynb`
+`balanced_train_segments.csv`
+`dic_labels_negadas2.json`
